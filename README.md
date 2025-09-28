@@ -11,7 +11,7 @@ Welcome to my personal portfolio repository! This project (1st Task from Sheryia
 
 ## 🌐 Live Link
 
-You can view the live portfolio here: [Live Portfolio](#)  
+You can view the live portfolio here: [Live Portfolio](https://portfolio-bv7.pages.dev/)  
 *Update this link once your site is deployed!*
 
 ## 📦 Setup & Usage
